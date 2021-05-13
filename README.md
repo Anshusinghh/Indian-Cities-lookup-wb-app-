@@ -1,4 +1,4 @@
-# Indian-Cities-lookup-wb-app-
+# Indian-Cities-lookup-web-app-
 This App searches through json file for information regarding cities that users enters.
 Also it gives suggestions as user starts inputting characters of city.
 
